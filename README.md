@@ -1,7 +1,7 @@
 ### Olá, mundo!🌎
 
 
-- 😃 Atualmente trabalho como auxiliar de instrutor Front-end
+- 😃 Atualmente trabalho como facilitador Front-end
 - 😎 Aprimorando meu conhecimento em ReactJS
 - 📧 Email: luan38.eric@gmail.com
 
