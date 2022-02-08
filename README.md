@@ -2,7 +2,7 @@
 
 
 - Programador Front-end
-- 📧 Email: luan38.eric@gmail.com
+- 📧 Email: luan32.eric@gmail.com
 
 <div>
   <a href="https://github.com/Luan338">
