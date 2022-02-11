@@ -1,7 +1,7 @@
 ### Olá, mundo!🌎
 
 
-- Graduando em Análise e Desenvolvimento de Sistemas na UNISUAM 🦉
+- Graduando de Análise e Desenvolvimento de Sistemas na UNISUAM 🦉
 - Programador Front-end
 - 📧 Email: luan32.eric@gmail.com
 
