@@ -1,7 +1,7 @@
 ### Olá, mundo!🌎
 
 
-- Graduando em Análise e Desenvolvimento de Sistemas na UNISUAM ![image](https://user-images.githubusercontent.com/75584515/153626406-b6b43d27-a820-4ceb-9cbe-efdc02daaac7.png)
+- Graduando em Análise e Desenvolvimento de Sistemas na UNISUAM 🦉
 - Programador Front-end
 - 📧 Email: luan32.eric@gmail.com
 
