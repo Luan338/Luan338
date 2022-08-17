@@ -2,7 +2,7 @@
 
 
 - Graduando de Análise e Desenvolvimento de Sistemas na UNISUAM 🦉
-- Programador Front-end
+- Programador na Shell
 - 📧 Email: luan32.eric@gmail.com
 
 <div>
