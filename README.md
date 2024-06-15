@@ -1,5 +1,5 @@
-- Graduando de Análise e Desenvolvimento de Sistemas
-- Luan Eric Silva é um profissional na área de análise de dados e inteligência de negócios.
+- Graduating in IT
+- data science enthusiast
 
 - 📧 Email: luan32.eric@gmail.com
 
